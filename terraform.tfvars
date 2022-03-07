@@ -1,0 +1,7 @@
+name = "terraform-build"
+project_id = "us-gcp-ame-con-116-npd-1"
+function_entry_point = "terraformbuild"
+region = "us-central1"
+google_storage_bucket_object = "index.zip"
+labels = "terraform-build"
+google_storage_bucket = "terraform-build"

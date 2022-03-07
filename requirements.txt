@@ -1,0 +1,8 @@
+pymsteams
+google-cloud-storage
+oauth2client
+google-api-python-client
+google-cloud-storage
+pprintpp
+sendgrid==2.2.1
+twilio
